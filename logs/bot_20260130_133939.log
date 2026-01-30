@@ -1,0 +1,4 @@
+2026-01-30 13:39:39,649 | INFO | Received order request | Type=LIMIT, Symbol=BTCUSDT, Side=BUY, Qty=0.01, Price=30000.0
+2026-01-30 13:39:39,651 | INFO | Input validation successful.
+2026-01-30 13:39:39,652 | ERROR | Binance API keys not found. Check .env file.
+2026-01-30 13:39:39,653 | ERROR | Binance client is not ready. API keys missing or invalid.

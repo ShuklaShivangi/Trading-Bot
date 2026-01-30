@@ -1,0 +1,3 @@
+2026-01-30 11:20:35,933 | INFO | Input validation successful.
+2026-01-30 11:20:35,934 | ERROR | Binance API keys not found. Check .env file.
+2026-01-30 11:20:35,935 | ERROR | Binance client is not ready. API keys missing or invalid.
